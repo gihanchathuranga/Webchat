@@ -1,0 +1,22 @@
+body{
+    
+    background-color: #8df273; 
+}
+#main{
+    
+    height: 450px;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 20px; 
+}
+#info{
+    margin-left: 20px;
+    padding-top: 2px;
+}
+input[type=text]{
+    width: 260px;
+    box-sizing: border-box;
+    border: 2px solid #8df273;
+    border-radius: 4px;
+    
+}
